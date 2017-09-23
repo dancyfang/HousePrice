@@ -1,5 +1,5 @@
 # Predicting Airbnb House Price
-Antong Su as3657, Jiahui Yi jy764, Xiaodan Fang xf72
+By Antong Su(as3657), Jiahui Yi(jy764), Xiaodan Fang(xf72)
 
 ## Background Introduction
 Airbnb is an online hospitality service company. It gives guests opportunities to rent short-term living lodgings. At the same time, hosts can lease their places to people. The lodge types include entire house, single room, shared room, apartment and more. Airbnb receive revenues and profits from collecting service fees from both guests and hosts. 
